@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1A</string>
+    <string name="orderBtn">Order Pizza</string>
+    <string name="sRad">Small</string>
+    <string name="mRad">Medium</string>
+    <string name="lRad">Large</string>
+    <string name="eCheckBox">Extra cheese</string>
+    <string name="sCheckBox">Stuffed Crust</string>
+    <string name="textView"></string>
+</resources>

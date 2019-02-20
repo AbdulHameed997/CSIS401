@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuessTeamGame</string>
+    <string name="guessBtn">Guess Player</string>
+    <string-array name="playerNames">
+        <item name="ron">Ronaldo</item>
+        <item name="ney">Neymar</item>
+        <item name="mess">Messi</item>
+        <item name="mo">Mohammed Salah</item>
+    </string-array>
+</resources>
